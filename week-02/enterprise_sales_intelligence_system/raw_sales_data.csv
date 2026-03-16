@@ -1,0 +1,301 @@
+CustomerID,Products,City,SalesAmount,Month
+1835,Smartphone,Austin,4709.33699373022,7
+1829,Digital Camera,Jacksonville,818.2487248837383,5
+1657,Desktop Computer,Los Angeles,,11
+1467,Drone,Columbus,1319.5919461554154,10
+1219,Digital Camera,San Diego,2136.476484066649,1
+1580,Laptop,Los Angeles,1494.3096830826973,12
+1186,Digital Camera,Chicago,3787.3120677027778,11
+1280,Smartwatch,Los Angeles,1771.0178934548346,9
+1165,Digital Camera,Columbus,500.4317551184013,12
+1043,External Hard Drive,Indianapolis,628.6789034094741,10
+1502,Wireless Earbuds,Charlotte,4182.261854257171,2
+1523,Wireless Earbuds,Phoenix,2390.1037732210775,9
+1166,Smartwatch,San Diego,3796.2819325902,1
+1823,Drone,Houston,2652.4711404174036,11
+1126,Smartwatch,Dallas,2185.318453903203,9
+1683,Drone,Seattle,4770.689178875264,4
+1218,Smartphone,Philadelphia,,5
+1273,Drone,Columbus,4277.7819371371215,1
+1486,Smartwatch,Phoenix,1264.214809273372,8
+1971,Digital Camera,Indianapolis,4142.685611992938,12
+1176,Smartwatch,San Antonio,114.0830817301014,5
+1292,Smartwatch,Fort Worth,4199.308757531998,5
+1187,Digital Camera,Phoenix,1781.9081837220326,1
+1427,Gaming Console,Indianapolis,,8
+1559,Desktop Computer,Charlotte,3641.9808581272705,7
+1875,External Hard Drive,Seattle,48102.50721259265,4
+1009,Desktop Computer,Los Angeles,3083.847959828351,7
+1321,External Hard Drive,San Antonio,2138.896380521835,5
+1953,Smartphone,Columbus,693.2052549768712,8
+1474,Desktop Computer,New York City,590.2982525323955,6
+1559,Desktop Computer,Dallas,3013.979991195636,7
+1580,Smartphone,San Francisco,2576.2795708549984,8
+1734,Smartphone,Fort Worth,2016.154268951195,10
+1949,Tablet,Phoenix,1835.5625690095708,6
+1931,Smartphone,Philadelphia,3566.959669327589,5
+1685,Tablet,Jacksonville,1493.2659966700232,11
+1992,Smartphone,Houston,3327.5565691582437,2
+1946,Tablet,San Jose,,10
+1543,Tablet,Jacksonville,4806.526697409043,9
+1504,Wireless Earbuds,Phoenix,1366.8352380459864,5
+1132,External Hard Drive,Los Angeles,,9
+1730,External Hard Drive,Charlotte,1881.6009832513598,10
+1332,Drone,Seattle,1944.9954940091823,4
+1989,Smartwatch,Columbus,4130.899187281987,2
+1181,Gaming Console,San Diego,2691.253151081196,10
+1302,Drone,Jacksonville,3197.00144961367,8
+1285,Smartwatch,Washington D.C.,4015.8200453936975,11
+1394,Smartphone,New York City,1116.8722143343064,11
+1773,Desktop Computer,Philadelphia,1013.1733142095967,10
+1862,Tablet,Seattle,672.7185126860325,10
+1327,Smartwatch,Dallas,3262.5191655728036,9
+1015,External Hard Drive,Los Angeles,3067.7004595007875,7
+1142,Gaming Console,San Antonio,114.64359811611527,5
+1037,Gaming Console,Austin,3899.3971240857704,11
+1296,Drone,Dallas,386.9900644165097,8
+1805,External Hard Drive,Denver,1848.878359869109,5
+1816,Wireless Earbuds,Austin,1477.139001559494,4
+1247,Gaming Console,Columbus,3912.3111469044566,4
+1712,Digital Camera,San Francisco,581.6514072697935,6
+1213,Smartphone,Philadelphia,3250.072461635986,11
+1576,Drone,Dallas,,7
+1907,Smartphone,Phoenix,3092.6478470260586,10
+1920,Laptop,Fort Worth,3394.0292409887825,2
+1761,External Hard Drive,Houston,4807.47866477079,12
+1790,Laptop,Denver,4335.032409835204,11
+1975,Digital Camera,San Antonio,4487.186719836171,6
+1399,Gaming Console,Seattle,,8
+1320,External Hard Drive,Austin,444.4436669819247,7
+1564,Tablet,Los Angeles,3424.222188262043,10
+1520,Smartwatch,New York City,3461.9993769303487,1
+1981,Digital Camera,Columbus,,10
+1982,Drone,Washington D.C.,1144.899385697259,1
+1414,Laptop,Washington D.C.,,12
+1862,External Hard Drive,Phoenix,1328.629811716089,8
+1690,External Hard Drive,San Antonio,784.9990458544758,5
+1565,Desktop Computer,Fort Worth,2261.0954242404487,8
+1051,Laptop,Seattle,2765.921482229619,2
+1521,Smartphone,San Antonio,286.40173870095816,9
+1117,Gaming Console,Houston,1516.8862911386598,12
+1270,Wireless Earbuds,Fort Worth,3107.81714144852,9
+1895,Tablet,Chicago,4938.222304186195,6
+1243,Digital Camera,Jacksonville,2531.3163557138896,2
+1446,Tablet,Seattle,3222.359101856317,8
+1008,Tablet,Seattle,535.0625590523009,7
+1703,Digital Camera,Chicago,3289.570670327637,2
+1373,Smartphone,Indianapolis,4138.533419569386,2
+1850,Desktop Computer,San Jose,3080.7795559405663,8
+1628,Desktop Computer,Columbus,921.5412895133514,9
+1389,Gaming Console,Washington D.C.,4870.886408143547,2
+1789,Desktop Computer,Chicago,72.14101726353317,12
+1920,Smartwatch,Charlotte,,10
+1610,Desktop Computer,Columbus,2037.688550039274,10
+1729,Tablet,Dallas,995.4907949720889,8
+1888,Laptop,Phoenix,4153.437724158841,6
+1281,Smartwatch,Jacksonville,1504.5122448913621,5
+1749,Desktop Computer,Chicago,1163.540988147509,11
+1850,External Hard Drive,San Diego,3930.2861251807967,3
+1990,Laptop,Charlotte,1127.8529170384588,11
+1023,Smartwatch,Washington D.C.,571.5971759680295,5
+1111,Wireless Earbuds,Philadelphia,827.715690031544,5
+1968,Desktop Computer,Dallas,,1
+1382,External Hard Drive,Washington D.C.,1746.6117775578714,12
+1321,Drone,Fort Worth,3363.218506399303,8
+1727,Drone,San Francisco,4005.61092046378,9
+1436,Drone,Jacksonville,702.8946737663706,4
+1239,Desktop Computer,Indianapolis,3719.9204788962625,3
+1990,Laptop,Houston,378.8583278278624,5
+1917,Wireless Earbuds,San Diego,4569.766040639101,6
+1043,Gaming Console,Seattle,4922.718490394353,12
+1370,Tablet,Phoenix,4501.917584962703,11
+1696,Desktop Computer,Chicago,3775.3651642869736,7
+1769,External Hard Drive,Dallas,3559.1933627594763,3
+1929,Drone,New York City,70.32245737724323,5
+1156,Smartphone,Chicago,3708.1659183141705,2
+1025,Tablet,Columbus,3753.4027887323805,2
+1000,Laptop,Columbus,1885.5074651401267,11
+1004,Smartwatch,Dallas,4054.576311295427,11
+1043,Smartphone,Fort Worth,4800.871754314325,9
+1051,Desktop Computer,Dallas,2157.834838591239,8
+1703,Gaming Console,Houston,3844.3424113783235,1
+1590,Gaming Console,San Jose,,9
+1683,External Hard Drive,Philadelphia,260.382102175481,3
+1936,Smartwatch,San Jose,3181.5912242490394,9
+1555,Smartwatch,Houston,2026.1423184338587,10
+1242,Wireless Earbuds,Seattle,,1
+1065,Digital Camera,San Antonio,2505.2365897478912,3
+1371,Smartphone,New York City,4124.801032355089,6
+1585,Drone,Seattle,4671.601864354107,12
+1605,Drone,Austin,1181.9284145788545,11
+1373,Laptop,Chicago,3042.1227795965347,8
+1710,Wireless Earbuds,Houston,105.02865133613517,7
+1431,Drone,New York City,,2
+1747,Desktop Computer,Washington D.C.,1622.6068723864057,10
+1489,Tablet,San Diego,2752.374666005287,10
+1723,Digital Camera,Indianapolis,299.4607355560518,3
+1184,Gaming Console,San Francisco,3477.933041963987,7
+1650,Smartphone,San Diego,3150.4145245485865,7
+1649,Smartwatch,New York City,4934.355487788801,4
+1347,Smartphone,Houston,489.96054859340245,4
+1270,Desktop Computer,Houston,,5
+1606,Digital Camera,Indianapolis,4638.182127372035,8
+1407,Wireless Earbuds,Los Angeles,3084.7232437719754,10
+1873,Gaming Console,San Jose,2669.5317352831944,2
+1462,External Hard Drive,San Diego,4932.335091748562,12
+1530,Smartwatch,Philadelphia,,3
+1358,Laptop,Los Angeles,2411.8719981817485,6
+1175,Wireless Earbuds,Phoenix,3037.201967885634,5
+1320,Digital Camera,Phoenix,1369.0217280789095,3
+1321,Laptop,New York City,3995.09920190001,4
+1166,Laptop,Denver,1274.1265453373444,11
+1376,Smartphone,Indianapolis,3655.480518165458,2
+1184,Smartwatch,Denver,4126.731639744683,7
+1092,External Hard Drive,Fort Worth,771.6583999983432,10
+1328,Tablet,Seattle,2626.4721310552045,5
+1433,Desktop Computer,San Diego,,2
+1831,Laptop,Dallas,2220.845492853629,6
+1320,Laptop,Columbus,1954.6662540101854,11
+1089,Gaming Console,Austin,192.59769369974308,3
+1501,Desktop Computer,San Francisco,4378.81054539959,7
+1467,Laptop,Austin,4532.187285367718,12
+1578,External Hard Drive,Austin,326.72871737802006,4
+1290,Desktop Computer,San Antonio,731.9115139637277,3
+1164,Laptop,Columbus,1273.3589512823082,1
+1506,External Hard Drive,Seattle,3332.7881982629483,7
+1275,Gaming Console,Charlotte,2716.312159676066,3
+1798,Gaming Console,Austin,3514.7948754465297,9
+1229,Drone,Denver,4922.276492207425,1
+1738,External Hard Drive,Los Angeles,560.4672507632574,10
+1160,Laptop,Seattle,123.88099707086026,5
+1469,Smartwatch,Washington D.C.,3576.97904551178,9
+1866,Digital Camera,New York City,3719.9511640678556,9
+1856,Desktop Computer,Phoenix,2895.122403669806,7
+1829,Digital Camera,San Francisco,,1
+1842,Tablet,San Diego,4934.792545896354,5
+1145,Smartphone,Houston,3926.7231955406774,4
+1317,Smartwatch,Los Angeles,4098.360580408855,9
+1437,Tablet,San Antonio,54.40956143029546,6
+1996,Smartphone,Phoenix,2613.485324647552,3
+1050,External Hard Drive,San Jose,78.88734946127951,3
+1711,Digital Camera,Dallas,35920.37977057223,4
+1092,Tablet,Chicago,3803.2863069015193,11
+1273,Drone,Seattle,2064.120725163995,12
+1772,External Hard Drive,San Francisco,2195.437507409979,9
+1837,Smartphone,Seattle,4650.444903307214,5
+1473,Drone,Denver,,1
+1130,Wireless Earbuds,Jacksonville,,8
+1787,Tablet,Seattle,1530.031222364642,5
+1811,Laptop,Indianapolis,552.3497916054566,8
+1190,Gaming Console,San Antonio,3588.0013361707097,4
+1065,Desktop Computer,Jacksonville,2935.8310077347223,11
+1652,Laptop,Chicago,4707.324233063996,8
+1464,Smartwatch,Chicago,3500.888315840646,5
+1544,Smartwatch,Chicago,522.1817591529259,4
+1359,External Hard Drive,Seattle,4622.408516531383,5
+1187,External Hard Drive,Jacksonville,3157.1115666445157,4
+1707,Gaming Console,Houston,1083.4509714917338,4
+1183,Desktop Computer,New York City,4677.9762738677355,6
+1634,Digital Camera,San Antonio,3398.9152919301423,5
+1491,Drone,New York City,2222.102738318042,8
+1224,Laptop,Austin,3142.150669310858,3
+1383,Smartphone,San Francisco,1763.507431652498,9
+1981,Desktop Computer,Dallas,,7
+1367,Smartwatch,Indianapolis,3211.454960602043,1
+1127,Smartwatch,Houston,776.6313593519441,12
+1506,Wireless Earbuds,Austin,2202.2886840697674,6
+1084,Tablet,Phoenix,1500.5154251125552,5
+1955,Desktop Computer,Fort Worth,4394.384738186028,8
+1808,Wireless Earbuds,Houston,2548.1548191984075,3
+1887,Desktop Computer,Chicago,4277.485016217205,3
+1619,Smartwatch,Dallas,94.13289980048887,12
+1202,Desktop Computer,Jacksonville,4715.823843787132,3
+1670,Smartphone,Washington D.C.,2312.491139083175,12
+1230,Digital Camera,Philadelphia,1288.1541412890804,11
+1411,Wireless Earbuds,Los Angeles,3144.8854124517093,10
+1024,Laptop,Philadelphia,4160.6570268060495,7
+1175,Digital Camera,Charlotte,1779.2621478418112,8
+1755,Desktop Computer,Austin,1683.5231467131116,7
+1472,Smartphone,San Francisco,363.3015473418185,10
+1258,External Hard Drive,San Antonio,3078.6909564323987,12
+1907,Tablet,Denver,2540.5814462877265,10
+1053,Gaming Console,Indianapolis,951.7042194126035,4
+1714,Digital Camera,Columbus,37605.95475754198,11
+1189,Drone,Houston,4195.303379183198,7
+1492,Wireless Earbuds,Seattle,3404.4900518025765,5
+1221,Laptop,Houston,,7
+1299,Digital Camera,Seattle,3427.547396378295,2
+1347,Tablet,San Antonio,4738.88251521292,7
+1275,Smartphone,San Jose,73.25950935629339,10
+1635,Laptop,Phoenix,2259.0760962435406,5
+1796,Smartwatch,Phoenix,220.56043948017302,3
+1948,Drone,San Francisco,1281.5462747329987,4
+1087,Smartwatch,Seattle,,10
+1242,Gaming Console,Seattle,4531.709465939513,4
+1434,Digital Camera,Houston,3011.7569814005415,6
+1028,External Hard Drive,Chicago,3959.909937768794,10
+1827,Digital Camera,San Antonio,3586.614271683936,1
+1042,Digital Camera,Austin,4254.147678992078,7
+1858,Smartphone,Indianapolis,1953.1372008693584,11
+1298,Digital Camera,Dallas,1455.1344109764234,8
+1322,Laptop,Charlotte,639.9041305677893,5
+1346,Gaming Console,Fort Worth,4670.897246787733,1
+1010,Wireless Earbuds,Los Angeles,1099.9931475972471,10
+1382,Tablet,Charlotte,4589.184966899754,6
+1103,External Hard Drive,San Antonio,2978.38813074494,10
+1803,Gaming Console,Houston,4645.6578695346225,6
+1861,Tablet,Denver,1860.373774882052,3
+1446,Tablet,Washington D.C.,1351.9420298421164,3
+1187,Smartphone,Phoenix,1356.1796403023066,12
+1307,Tablet,Austin,4428.377350210268,2
+1431,Wireless Earbuds,Charlotte,314.02875215986415,3
+1873,Digital Camera,Denver,2397.7441234279763,3
+1500,Laptop,Columbus,4637.56068286677,6
+1602,Gaming Console,Dallas,4499.515897253763,9
+1060,Smartwatch,Dallas,49731.81571434992,10
+1476,Smartwatch,Columbus,2189.4852734441984,8
+1288,Gaming Console,Jacksonville,3436.616737057947,9
+1847,External Hard Drive,Phoenix,3222.3680410920247,1
+1377,Wireless Earbuds,Jacksonville,3983.828100561134,7
+1326,Tablet,Indianapolis,,9
+1040,Smartwatch,San Diego,4879.2678191062005,11
+1797,Smartwatch,Houston,3407.1344927568844,7
+1312,Smartwatch,Columbus,,3
+1568,Desktop Computer,New York City,,8
+1328,Gaming Console,Denver,552.8906172675376,3
+1097,Laptop,San Jose,717.5674940424462,3
+1307,Digital Camera,Jacksonville,1736.8017124922703,10
+1510,External Hard Drive,Chicago,3079.180668741084,2
+1266,External Hard Drive,Charlotte,4718.734741966511,7
+1126,Drone,Denver,495.551121097908,7
+1862,Tablet,Jacksonville,671.9791295644433,2
+1813,Digital Camera,Los Angeles,1862.0903123827884,8
+1999,Desktop Computer,Jacksonville,,6
+1482,Smartwatch,Houston,2441.0870041146295,4
+1225,Desktop Computer,Charlotte,3730.5288110344795,3
+1320,Gaming Console,Seattle,2685.313090282554,10
+1676,Gaming Console,Austin,4541.90415504474,10
+1532,Smartphone,Indianapolis,,12
+1573,Drone,Phoenix,3998.7467712579005,1
+1242,External Hard Drive,Fort Worth,3067.7244330368067,9
+1678,Desktop Computer,San Antonio,4401.722293436436,8
+1011,Desktop Computer,Dallas,4831.9297815938435,3
+1644,Drone,Houston,3872.3852825712293,8
+1128,Wireless Earbuds,Phoenix,2496.9637271746337,5
+1125,Tablet,Fort Worth,4916.177949144667,9
+1279,Smartwatch,Phoenix,3233.4757560986227,5
+1731,Drone,Charlotte,4051.7953526533083,2
+1964,Laptop,Fort Worth,,9
+1619,Smartphone,San Antonio,4291.914083453921,1
+1332,Drone,Fort Worth,4877.316543720455,12
+1443,Gaming Console,Dallas,22697.325331084343,8
+1566,Tablet,Washington D.C.,2995.4545372438465,10
+1727,External Hard Drive,Denver,4550.986001503343,10
+1200,Laptop,Denver,1503.790474620016,5
+1226,Desktop Computer,Denver,4573.943598898672,10
+1905,Smartphone,San Jose,4009.3892232439753,9
+1760,Wireless Earbuds,Chicago,2078.0461271494646,1
+1835,Gaming Console,San Jose,23222.638878246118,1
+1754,Drone,Los Angeles,3757.7630466243977,2
+1691,Digital Camera,Fort Worth,,12
+1557,Wireless Earbuds,Chicago,225.89389165649257,5
